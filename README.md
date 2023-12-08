@@ -1,4 +1,4 @@
-# Top Gun Maverik
+# Top Gun: Maverik
 A repo for the different items of our work on the Maverik competition.
 
 ## Included Items
