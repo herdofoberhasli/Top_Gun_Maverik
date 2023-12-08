@@ -3,8 +3,11 @@ A repo for the different items of our work on the Maverik competition.
 
 ## Included Items
 > Business Problem Statement
+> 
 > EDA Notebook
+> 
 > Modeling Notebook
+> 
 > Presentation Slides
 
 ### Note
